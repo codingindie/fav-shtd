@@ -3,12 +3,12 @@
     "short_name": "Toko SHTD",
     "icons": [
         {
-            "src": "https://github.com/codeindie/fav-shtd/android-chrome-192x192.png",
+            "src": "https://cdn.statically.io/img/raw.githubusercontent.com/codeindie/fav-shtd/master/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://github.com/codeindie/fav-shtd/android-chrome-256x256.png",
+            "src": "https://cdn.statically.io/img/raw.githubusercontent.com/codeindie/fav-shtd/master/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
