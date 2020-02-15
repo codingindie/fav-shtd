@@ -1,2 +1,3 @@
 # fav-shtd
-Repository Favicon Toko Smart Hafiz Talking Doll
+Repository for Favicon Toko Smart Hafiz Talking Doll
+Check : https://smarthafiztalkingdoll.com
