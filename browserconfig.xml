@@ -5,5 +5,13 @@
             <square150x150logo src="https://cdn.statically.io/img/raw.githubusercontent.com/codeindie/fav-shtd/master/mstile-150x150.png"/>
             <TileColor>#00aba9</TileColor>
         </tile>
+        <tile>
+         <visual lang="en-US" version="2">
+            <binding template="TileWide310x150ImageAndText01"
+              <image id="1" src="https://cdn.statically.io/img/raw.githubusercontent.com/codeindie/fav-shtd/master/mstile-150x150.png" alt="Toko SHTD"/>
+              <text id="1">Toko SHTD</text>
+            </binding>  
+          </visual>
+        </tile>
     </msapplication>
 </browserconfig>
