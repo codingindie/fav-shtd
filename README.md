@@ -1,4 +1,4 @@
-# fav-shtd
+# WHAT IS THIS
 Repository for Favicon Toko Smart Hafiz Talking Doll
-
-Check : https://smarthafiztalkingdoll.com
+---
+Please Check https://smarthafiztalkingdoll.com for more info
