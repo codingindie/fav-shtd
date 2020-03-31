@@ -21,6 +21,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
+    "orientation": "portrait",
     "start_url": "https://www.smarthafiztalkingdoll.com/",
     "scope": "https://www.smarthafiztalkingdoll.com/",
     "display": "standalone"
