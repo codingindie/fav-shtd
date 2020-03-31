@@ -35,6 +35,9 @@ window.addEventListener('appinstalled', (event) => {
 });
 
 /* Only register a service worker if it's supported */
+navigator.serviceWorker.register(
+  '//raw.githubusercontent.com/codeindie/fav-shtd/master/service-worker.js'
+)
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('//raw.githubusercontent.com/codeindie/fav-shtd/master/service-worker.js');
 }
