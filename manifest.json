@@ -4,19 +4,24 @@
     "description": "Distributor resmi Smart Hafiz, Hafiz Talking Doll, dan aneka mainan anak berkualitas.",
     "icons": [
         {
-            "src": "https://cdn.statically.io/img/raw.githubusercontent.com/codeindie/fav-shtd/master/android-chrome-192x192.png",
+            "src": "https://cdn.statically.io/img/github.com/codeindie/fav-shtd/raw/master/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.statically.io/img/raw.githubusercontent.com/codeindie/fav-shtd/master/android-chrome-256x256.png",
+            "src": "https://cdn.statically.io/img/github.com/codeindie/fav-shtd/raw/master/android-chrome-256x256.png",
             "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.statically.io/img/github.com/codeindie/fav-shtd/raw/master/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://www.smarthafiztalkingdoll.com/",
-    "scope": "https://www.smarthafiztalkingdoll.com/",
+    "start_url": "/",
+    "scope": "/",
     "display": "standalone"
 }
