@@ -1,6 +1,7 @@
 {
-    "name": "Toko SHTD",
+    "name": "Toko Smart Hafiz Talking Doll",
     "short_name": "Toko SHTD",
+    "description": "Distributor resmi Smart Hafiz, Hafiz Talking Doll, dan aneka mainan anak berkualitas.",
     "icons": [
         {
             "src": "https://cdn.statically.io/img/raw.githubusercontent.com/codeindie/fav-shtd/master/android-chrome-192x192.png",
@@ -16,5 +17,6 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "start_url": "https://www.smarthafiztalkingdoll.com/",
+    "scope": "https://www.smarthafiztalkingdoll.com/",
     "display": "standalone"
 }
