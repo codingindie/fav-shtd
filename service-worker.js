@@ -1,4 +1,4 @@
-const version = "0.1.0";
+const version = "0.1.1";
 const cacheName = `TokoSHTD-${version}`;
 self.addEventListener('install', e => {
   e.waitUntil(
@@ -34,3 +34,15 @@ self.addEventListener('fetch', event => {
     })
   );
 });
+
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox-sw.js");
+
+importScripts(
+  "/static/precache.f9cac6e832615acd35339c53b8d34f39.js"
+);
+
+self.__precacheManifest = [].concat(self.__precacheManifest || []);
+workbox.precaching.suppressWarnings();
+workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+
+workbox.routing.registerRoute(/\.(?:png|jpg|jpeg|svg)$/, workbox.strategies.cacheFirst(), 'GET');
