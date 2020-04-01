@@ -1,7 +1,7 @@
 # WHAT'S INSIDE
 
 
-Repository for Favicon Toko Smart Hafiz Talking Doll
+Repository for Favicon <b>Toko Smart Hafiz Talking Doll</b>
 
 ---
 
